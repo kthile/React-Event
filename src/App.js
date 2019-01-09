@@ -14,7 +14,7 @@ class App extends Component {
     return (
       <div
         className="App"
-        style={{ height: "1500px", background: "cornflowerBlue" }}
+        style={{ height: "1500px", background: 'url(images/slide_one.jpg) center center / cover' }}
       >
         <Header />
         <Element name="Featured">
